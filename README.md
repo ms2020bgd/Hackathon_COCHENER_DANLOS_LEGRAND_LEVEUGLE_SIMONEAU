@@ -1,11 +1,11 @@
 Ce répertoire regroupe le travail produit lors du Hackathon le 22 novembre 2019, qui portait sur la question suivant : quelles énergies pour demain ?
 
-L'équipe était constiuté de :
-Camille COCHENER
-Hélène DANLOS
-Romain LEGRAND
-Sophie LEVEUGLE
-Rodolphe Simoneau
+L'équipe était constiutée de :
+- Camille COCHENER
+- Hélène DANLOS
+- Romain LEGRAND
+- Sophie LEVEUGLE
+- Rodolphe Simoneau
 
 Afin de répondre à cette question, nous avons utilisé les jeux de données suivants :
 
