@@ -1,5 +1,5 @@
 Ce répertoire regroupe le travail produit lors du Hackathon le 22 novembre 2019, qui portait sur la question suivant : 
-#quelles énergies pour demain ?
+quelles énergies pour demain ?
 
 L'équipe était constiutée de :
 - Camille COCHENER
