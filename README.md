@@ -8,12 +8,16 @@ L'équipe était constiutée de :
 - Sophie LEVEUGLE
 - Rodolphe Simoneau
 
+Préliminaire 1 : Importation des données 
+
 Nous avons utilisé les jeux de données suivants :
 
 - Statistical Review of World Energy, site BP, contenant les informations de consommations et de productions par région et par source d'énergie
 - Données issues de la World Bank de l'application Climate Data API. Nous avons récupéré les températures annuelles de 1890 à 2012
 - NASA Globale Climate Change Database : relevé de déviations de température jusqu'à 2019 utilisé pour les prévisions
 - Dataset IEA (International Energy Agency) : elle recense pour ses états membres les dépenses en R&D par type de technologie depuis 1976
+
+Présentation du plan : 
 
 Afin de répondre à la question, nous avons conduit notre analyse de la façon suivante :
 
@@ -28,3 +32,6 @@ Afin de répondre à la question, nous avons conduit notre analyse de la façon 
 - Analyses de l'évolution des principaux investissments faits dans l'énergie depuis les années 70
 
 En conslusion, nous pouvons apporter la réponse suivante à la question "quelles énergies pour demain ?" :
+Nous avons vu qu'avec non seulement la croissance de la population mondiale et de la consommation par tête, la production et la consommation d'énergie au global, et fossiles en particulier ont fortement augmenté. Cela a généré une forte augmentation des émissions de CO2 qui posent un nombre de questions environnementales. Par conséquent, les énergies renouvelables en particulier le soleil et l'éolien prennent une part chaque année plus importante dans les mix énergétiques de toutes les régions du monde. 
+
+Cependant, nous pouvons voir que si les énergies renouvelables constituent les énergies de demain, et que le nucléaire risque de ne pas croître dans le mix énergétique en raison du sentiment antinucléaire, il semblerait que les énergies fossiles vont garder une part significative du mix, avec un effort important mis sur les technologies que l'on pourrait dire "de transition" (ie celles d'optimisation contre la déperdition d'énergie, technologie hydrogène etc...) pour atténuer la pression sur la demande en énergie.
